@@ -15,7 +15,7 @@ public class Test1 {
             return Math.min(a, b);
         }
 
-        // Метод для увідсотку
+        // Метод для прочент
         public static double findPercentage(double number, double percent) {
             return (number * percent) / 100;
         }
